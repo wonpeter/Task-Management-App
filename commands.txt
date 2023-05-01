@@ -1,0 +1,12 @@
+UI:
+ng serve
+http://localhost:4200/
+http://localhost:4200/about
+
+Backend
+npm run server
+http://localhost:5000/tasks
+
+https://www.youtube.com/watch?v=3dHNOWTI7H8&t=5709s
+ng generate service services/…
+ng generate component components/…
